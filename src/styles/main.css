@@ -3,7 +3,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #e3f2fd;
+    background-color: #000;
     color: #fff;
 }
 
@@ -51,7 +51,7 @@ body {
 
 .container {
     width: 90%;
-    background-color: #000;
+    background-color: #3B2F2F;
     padding: 35px 40px;
     border-radius: 1rem;
     display: flex;
